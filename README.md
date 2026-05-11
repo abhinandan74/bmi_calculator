@@ -34,4 +34,4 @@ The result is shown on the screen.
 Note: Currently this project is not fully responsive for mobile devices.
 
 ## Author
-Abhinandan Kumar
+Abhinandan Kumar pandey
